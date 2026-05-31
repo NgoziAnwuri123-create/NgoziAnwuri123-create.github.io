@@ -271,7 +271,7 @@ plt.show()
 
 ---
 
-## Customer Support Calls Analysis
+## Target Analysis
 
 ```python
 plt.figure(figsize=(8,5))
