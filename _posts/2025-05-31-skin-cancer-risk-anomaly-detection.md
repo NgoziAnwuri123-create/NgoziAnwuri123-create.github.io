@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Detecting Skin Cancer Risk Using Anomaly Detection, SQL Analytics & Machine Learning
-image: img/posts/anamoly detection.jpg
+image: "img/posts/andect.jpeg"
 tags: [Healthcare Analytics, SQL, Python, Anomaly Detection, Machine Learning]
 ---
 
