@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predicting Customer Churn Using Machine Learning
-image: "/posts/andect.jpeg"
+image: "/posts/Churn.jpg"
 tags: [Machine Learning, Customer Analytics, Random Forest, Classification, Python]
 ---
 
