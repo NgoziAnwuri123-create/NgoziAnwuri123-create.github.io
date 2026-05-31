@@ -313,7 +313,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Symptom Analysis](/posts/symptom-analysis.png)
+img/posts/an1.PNG
 
 ___
 
